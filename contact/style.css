@@ -1,0 +1,40 @@
+button[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 7px;
+    cursor: none;
+}
+input[input=text], select {
+    width: 35%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+label {
+    font-size: 20px;
+}
+.container {
+    max-width: 1000px;
+    padding: 20px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 7px;
+}
+.message {
+    height: 200px;
+}
