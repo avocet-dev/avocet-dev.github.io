@@ -5,6 +5,26 @@
 * {
   font-family: font;
 }
+/*w3*/
+.hide{display:none!important}
+.show{display:block!important}
+/*w3*/
+.folder-file {
+  box-shadow: 3px 3px 5px black;
+  text-align: center;
+  align-items: center;
+  font-size: 40px;
+  background: linear-gradient(45deg, #949494, #767676);
+  width: 300px;
+  height: 100px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  border-radius: 10px;
+}
+button:focus {outline:0;}
+p {
+  margin: 0px;
+}
 body {
   margin: 0px;
   background: linear-gradient(80deg, #00ffff, #00aaff);
@@ -22,6 +42,7 @@ header {
 main {
   width: 100%;
   height: 100%;
+  font-size: 55px;
   color: black;
 }
 grid {
