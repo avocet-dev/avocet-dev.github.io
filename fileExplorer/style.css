@@ -12,6 +12,7 @@
 .folder-file {
   box-shadow: 3px 3px 5px black;
   text-align: center;
+  border: none;
   align-items: center;
   font-size: 40px;
   background: linear-gradient(45deg, #949494, #767676);
