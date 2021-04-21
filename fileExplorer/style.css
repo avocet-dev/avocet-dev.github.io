@@ -21,6 +21,9 @@
   margin-top: 0px;
   border-radius: 10px;
 }
+.folder-file:hover {
+  background: linear-gradient(45deg, #717171, #434343);
+}
 button:focus {outline:0;}
 p {
   margin: 0px;
