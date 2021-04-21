@@ -1,6 +1,12 @@
+@font-face {
+  font-family: font;
+  src: url(font.woff);
+}
+* {
+  font-family: font;
+}
 body {
   margin: 0px;
-  font-family: 'Luminari';
   background: linear-gradient(80deg, #00ffff, #00aaff);
 }
 header {
