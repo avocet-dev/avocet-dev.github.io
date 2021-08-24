@@ -6,6 +6,9 @@
 * {
     font-family: font;
 }
+::-webkit-scrollbar-track {
+    background: transparent;
+}
 .w3-bar,h1,button {
     font-family: "Montserrat", sans-serif
 }
